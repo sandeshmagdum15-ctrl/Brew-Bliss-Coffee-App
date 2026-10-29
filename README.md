@@ -30,6 +30,3 @@ A modern coffee app UI developed using Kotlin and Jetpack Compose, focused on a 
 
 Developed as a practical Android application development project to improve my Kotlin, Jetpack Compose, navigation, and UI/UX skills.
 
-## 📄 License
-
-Add a suitable license if you intend to permit others to reuse or modify this project.
