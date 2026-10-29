@@ -19,10 +19,6 @@ A modern coffee app UI developed using Kotlin and Jetpack Compose, focused on a 
 - **IDE:** Android Studio
 - **Platform:** Android
 
-## 📱 Screenshots
-
-Add your application screenshots here to showcase the welcome screen and coffee catalog.
-
 ## 🚀 Future Enhancements
 
 - User authentication with Firebase
